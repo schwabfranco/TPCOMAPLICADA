@@ -1,2 +1,3 @@
 # TPCOMAPLICADA
-Trabajo práctico integrador
+Integrantes del grupo
+Franco Schwab
